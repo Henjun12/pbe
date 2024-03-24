@@ -146,6 +146,7 @@ public class Menu extends JFrame {
 
         p13.add(placeOrderButton);
 
+        add(image1); //kw x add panel image tu d sni sbb tu x keluar
         add(p4);
         add(p8);
         add(p12);
